@@ -1,5 +1,8 @@
 ## Instalando o Jenkins
 
+### Pré-requisitos:
+* O Java 8 foi instalado seguindo nossas diretrizes sobre a [instalação de versões específicas do OpenJDK no Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04#installing-specific-versions-of-openjdk).
+
 Primeiro, adicione a chave do repositório ao sistema:
 ```
 wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
