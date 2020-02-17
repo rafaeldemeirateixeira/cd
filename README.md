@@ -36,4 +36,8 @@ Para configurar sua instalação, visite o Jenkins na sua porta padrão, 8080, u
 * pmd
 * violations
 ```
-[Turoria de integração do Jenkins com PHP](https://shashikantjagtap.net/php-continuous-integration-template-using-composer-jenkinsci)
+
+## Links
+1 - [Turoria de integração do Jenkins com PHP](https://shashikantjagtap.net/php-continuous-integration-template-using-composer-jenkinsci)
+
+2 - [Repositório do projeto PHP com os pacotes composer para integração](https://github.com/rafaeldemeirateixeira/ci)
