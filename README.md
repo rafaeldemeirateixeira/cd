@@ -23,3 +23,14 @@ sudo apt install jenkins
 ## Configurando o Jenkins
 
 Para configurar sua instalação, visite o Jenkins na sua porta padrão, 8080, usando o nome de domínio ou endereço IP do seu servidor: `http://your_server_ip_or_domain:8080`
+
+## Plugins CI para PHP
+```
+* checkstyle
+* cloverphp
+* htmlpublisher
+* jdepend
+* pmd
+* violations
+```
+[Turoria de integração do Jenkins com PHP](https://shashikantjagtap.net/php-continuous-integration-template-using-composer-jenkinsci)
